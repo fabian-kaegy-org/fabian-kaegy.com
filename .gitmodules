@@ -1,0 +1,3 @@
+[submodule "themes/finn"]
+	path = themes/finn
+	url = https://github.com/fabian-kaegy-org/finn.git
