@@ -1,0 +1,25 @@
+{
+  "name": "fabian-kaegy.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "wp-env start",
+    "stop": "wp-env stop",
+    "env": "wp-env"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://fabiankaegy@github.com/fabian-kaegy-org/fabian-kaegy.com.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabian-kaegy-org/fabian-kaegy.com/issues"
+  },
+  "homepage": "https://github.com/fabian-kaegy-org/fabian-kaegy.com#readme",
+  "dependencies": {
+    "@wordpress/env": "^4.1.3"
+  }
+}

@@ -1,0 +1,4 @@
+{
+    "themes": [ "./themes/finn" ],
+    "plugins": [ "https://downloads.wordpress.org/plugin/gutenberg.12.0.1.zip" ]
+}
